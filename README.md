@@ -1,6 +1,6 @@
 <h1 align="center">Rayner Mendez</h1>
 
-<p align="center">I am a passionate Computer Scientist with a strong interest in Software Engineer, Blockchain, Cloud Computing, and Machine Learning. What excites me the most about this field is the wide variety of paths you can choose from, meaning that I can be a Software Engineer today, but the next year I can decide to become a Blockchain developer and apply the same knowledge I learned as a Software Engineer.</p>
+<p align="center">I am a passionate Computer Scientist with a strong interest in Software Engineer, DevOps, Cloud Computing, and Machine Learning. What excites me the most about this field is the wide variety of paths you can choose from, meaning that I can be a Software Engineer today, but the next year I can decide to become a DevOps Engineer and apply the same knowledge I learned as a Software Engineer.</p>
 
 
 ## Languages:
