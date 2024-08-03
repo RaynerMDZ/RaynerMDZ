@@ -1,6 +1,6 @@
 <h1 align="center">Rayner Mendez</h1>
 
-<p align="center">I am a passionate Computer Scientist with a strong interest in Software Engineer, DevOps, Cloud Computing, and Machine Learning. What excites me the most about this field is the wide variety of paths you can choose from, meaning that I can be a Software Engineer today, but the next year I can decide to become a DevOps Engineer and apply the same knowledge I learned as a Software Engineer.</p>
+<p align="center">I am a talented software engineer with a strong background in building and maintaining systems under high-pressure environments. I excel at teamwork and problem-solving. My dedication to staying updated with the latest industry trends and my passion for continuous learning make me a valuable asset to any team. I am always eager to bring my skills and experience to a new challenge where I can continue to innovate and improve. My blend of practical experience, technical knowledge, and collaborative approach makes me an excellent fit for any organization seeking a dedicated and skilled software engineer. </p>
 
 
 ## Languages:
